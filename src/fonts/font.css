@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Neutrif Pro";
+  src: local("Neutrif Pro Light"), local("Neutrif-Pro-Light"),
+    url("NeutrifPro-Light.woff2") format("woff2"),
+    url("NeutrifPro-Light.woff") format("woff"),
+    url("NeutrifPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neutrif Pro";
+  src: local("Neutrif Pro Regular"), local("Neutrif-Pro-Regular"),
+    url("NeutrifPro-Regular.woff2") format("woff2"),
+    url("NeutrifPro-Regular.woff") format("woff"),
+    url("NeutrifPro-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neutrif Pro";
+  src: local("Neutrif Pro Medium"), local("Neutrif-Pro-Medium"),
+    url("NeutrifPro-Medium.woff2") format("woff2"),
+    url("NeutrifPro-Medium.woff") format("woff"),
+    url("NeutrifPro-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
